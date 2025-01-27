@@ -7,6 +7,10 @@ export default defineConfig({
   srcDir: "./src",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
+    search: {
+      provider: "local",
+    },
+
     nav: [
       { text: "Home", link: "/" },
       { text: "Install", link: "/installation" },
