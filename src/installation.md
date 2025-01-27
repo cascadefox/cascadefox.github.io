@@ -6,7 +6,7 @@
   - Linux: `$HOME/.mozilla/firefox/######.default-release/`
   - MacOS: `Users/[USERNAME]/Library/Application Support/Firefox/Profiles/######.default-release`
   - Windows: `C:\Users\[USERNAME]\AppData\Roaming\Mozilla\Firefox\Profiles\######.default-release`
-4. Copy the `chrome` folder into your profile and restart<sup>1)</sup> Firefox.
+4. Copy the `chrome` folder into your profile and restart<sup>1</sup> Firefox.
 5. Customise everything to your liking. (*optional*)
 
 <sup>1) If you're running into trouble with a restart seemingly not working you can navigate to `about:profiles` and click the »*Restart Normally*«-Button.</sup>
