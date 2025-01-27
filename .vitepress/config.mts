@@ -25,6 +25,7 @@ export default defineConfig({
           { text: "Customisation", link: "/customisation" },
           { text: "Integrations", link: "/integrations" },
           { text: "Keyboard Shortcuts", link: "/shortcuts" },
+          { text: "Contributing", link: "/contributing" },
         ],
       },
     ],
