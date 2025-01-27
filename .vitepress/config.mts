@@ -4,25 +4,32 @@ import { defineConfig } from "vitepress";
 export default defineConfig({
   title: "Cascade Docs",
   description: "A responsive One-Line CSS Theme for Firefox",
+  srcDir: "./src",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: "Home", link: "/" },
-      { text: "Examples", link: "/markdown-examples" },
+      { text: "Install", link: "/installation" },
+      { text: "Guide", link: "/customisation" },
     ],
 
     sidebar: [
       {
-        text: "Examples",
         items: [
-          { text: "Markdown Examples", link: "/markdown-examples" },
-          { text: "Runtime API Examples", link: "/api-examples" },
+          { text: "About", link: "/about" },
+          { text: "Installation", link: "/installation" },
+          { text: "Customisation", link: "/customisation" },
+          { text: "Integrations", link: "/integrations" },
+          { text: "Keyboard Shortcuts", link: "/shortcuts" },
         ],
       },
     ],
 
-    socialLinks: [
-      { icon: "github", link: "https://github.com/vuejs/vitepress" },
-    ],
+    socialLinks: [{ icon: "github", link: "https://github.com/cascadefox" }],
+
+    footer: {
+      message: "Released under the MIT license.",
+      copyright: "Copyright © 2022-present",
+    },
   },
 });
