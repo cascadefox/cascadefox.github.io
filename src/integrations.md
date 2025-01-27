@@ -2,17 +2,17 @@
 
 ## Catppuccin
 
-![Cascade Catppuccin Preview](cascade-ctp.webp)
+![Cascade Catppuccin Preview](/cascade-ctp.webp)
 
 This simply offers premade colour configs for [Catppuccin](https://github.com/catppuccin/catppuccin). There are variants for each dark mode flavour — [Mocha](https://github.com/cascadefox/cascade/tree/main/integrations/catppuccin/cascade-mocha.css), [Macchiato](https://github.com/cascadefox/cascade/tree/main/integrations/catppuccin/cascade-macchiato.css) and [Frappé](https://github.com/cascadefox/cascade/tree/main/integrations/catppuccin/cascade-frappe.css) — all of them come with Latte as their light mode.
 
 <details>
 <summary>Individual Previews</summary>
 
-![Catppuccin Mocha](cascade-ctp-mocha.webp)
-![Catppuccin Macchiato](cascade-ctp-macchiato.webp)
-![Catppuccin Frappé](cascade-ctp-frappe.webp)
-![Catppuccin Latte](cascade-ctp-latte.webp)
+![Catppuccin Mocha](/cascade-ctp-mocha.webp)
+![Catppuccin Macchiato](/cascade-ctp-macchiato.webp)
+![Catppuccin Frappé](/cascade-ctp-frappe.webp)
+![Catppuccin Latte](/cascade-ctp-latte.webp)
 
 </details>
 
@@ -20,7 +20,7 @@ This simply offers premade colour configs for [Catppuccin](https://github.com/ca
 
 ## Rosé Pine
 
-![Cascade Rosé Pine Preview](cascade-rosepine.webp)
+![Cascade Rosé Pine Preview](/cascade-rosepine.webp)
 
 Similar to Catppuccin these are premade colour configs for [Rosé Pine](https://github.com/rose-pine/rose-pine-theme). Featuring the [Default Palette](https://github.com/cascadefox/cascade/tree/main/integrations/rose-pine/cascade-rose-pine.css) as well as [Moon](https://github.com/cascadefox/cascade/tree/main/integrations/rose-pine/cascade-moon.css) with Dawn as light mode for both.
 
@@ -36,7 +36,7 @@ Similar to Catppuccin these are premade colour configs for [Rosé Pine](https://
 
 ## Tab Center Reborn — Vertical Tabs
 
-![Tab Center Reborn Vertical Tabs Preview](cascade-tcr.webp)
+![Tab Center Reborn Vertical Tabs Preview](/cascade-tcr.webp)
 
 ### How to set it up
 1. Download the [Tab Center Reborn Addon](https://addons.mozilla.org/en-GB/firefox/addon/tabcenter-reborn/)

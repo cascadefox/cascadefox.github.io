@@ -28,4 +28,4 @@ features:
 
 <br>
 
-![Cascade Preview](preview.webp)
+![Cascade Preview](/preview.webp)

@@ -55,11 +55,11 @@ In the [Cascade config](https://github.com/cascadefox/cascade/tree/main/chrome/i
 <summary>Previews</summary>
 
 Toolbar on the top
-![Toolbar on the top](cascade-toolbar-top.webp)
+![Toolbar on the top](/cascade-toolbar-top.webp)
 Toolbar on the bottom
-![Toolbar on the bottom](cascade-toolbar-bottom.webp)
+![Toolbar on the bottom](/cascade-toolbar-bottom.webp)
 URL bar on the right
-![URL Bar on the right](cascade-urlbar-right.webp)
+![URL Bar on the right](/cascade-urlbar-right.webp)
 
 </details><br>
 
@@ -77,7 +77,7 @@ You can freely set your desired URL Bar width from within the [config](https://g
 
 If you set the `min-width` to `0vw` and the `max-width` to `100vw` you can also completely hide the URL Bar as long as it's not focused.
 
-![Fully hidden URL Bar if unfocused](cascade-urlbar.webp)
+![Fully hidden URL Bar if unfocused](/cascade-urlbar.webp)
 
 <br>
 

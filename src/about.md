@@ -1,6 +1,6 @@
 # About Cascade
 
-![Cascade Preview](preview.webp)
+![Cascade Preview](/preview.webp)
 
 
 <div style="display: flex; justify-content: center; gap: 1rem;">
